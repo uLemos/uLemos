@@ -3,7 +3,7 @@
 
 
 - 🔭 Hoje estou a procura de uma oportunidade para estagiar
-- 🌱 Estudo JavaScript, C, NodeJs, HTML e CSS
+- 🌱 Estudo JavaScript, C, NodeJs, HTML, CSS, ReactJS e TypeScript
 - 😄 Pronouns: ele/dele
 - ❤️‍🔥 Apaixonado por tecnologia 
 - 🧿 Focado em novas experiências
