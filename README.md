@@ -2,7 +2,7 @@
 
 
 
-- 🌱 Estudo JavaScript, C, NodeJs, HTML, CSS, ReactJS e TypeScript
+- 🌱 Estudo C#, ASP.NET, ASP.NET MVC e ASP.NET Core
 - 😄 Pronouns: ele/dele
 - ❤️‍🔥 Apaixonado por tecnologia 
 - 🧿 Focado em novas experiências
