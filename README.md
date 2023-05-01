@@ -1,13 +1,15 @@
-### Opa! Eu sou o Fernando Lemos 👋
+### <h1 align="center">Opa! Eu sou o Fernando Lemos 👋</h1>
 
 
+<h2>
+  <ul>
+    <li> 🌱 Estudo <strong>C#, ASP.NET, ASP.NET MVC e ASP.NET Core</strong>;</li>
+    <li> 😄 Pronouns: ele/dele;</li>
+    <li> ❤️‍🔥 Apaixonado por tecnologia;</li> 
+    <li> 🧿 Focado em novas experiências.</li>
+  </ul>
+</h2>
 
-- 🌱 Estudo C#, ASP.NET, ASP.NET MVC e ASP.NET Core
-- 😄 Pronouns: ele/dele
-- ❤️‍🔥 Apaixonado por tecnologia 
-- 🧿 Focado em novas experiências
-
-##
   <br>
 <div align="center" style="display: inline_block">
   <a href="https://github.com/lefernando">
@@ -30,7 +32,7 @@
    <a href="https://instagram.com/le.fernando_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-  badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href="https://discord.gg/Fernando Lemos#2392" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-  badge&logo=discord&logoColor=white" target="_blank"></a> 
    <a href = "mailto:fsnvag12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-  badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/fernandosantos77/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?  style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><br>                    
+   <a href="https://www.linkedin.com/in/fernandosantos77/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?  style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><br>                    
   </div>  
 
   
