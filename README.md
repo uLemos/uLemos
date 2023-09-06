@@ -3,7 +3,7 @@
 
 <h2>
   <ul>
-    <li> 🌱 Estudo <strong>C#, ASP.NET, ASP.NET MVC e ASP.NET Core</strong>;</li>
+    <li> 🌱 Especialista em C# e .Net Core. Estudando <strong>Angular, TypeScript e ASP .NET Core</strong>;</li>
     <li> 😄 Pronouns: ele/dele;</li>
     <li> ❤️‍🔥 Apaixonado por tecnologia;</li> 
     <li> 🧿 Focado em novas experiências.</li>
