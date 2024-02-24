@@ -10,7 +10,7 @@
     <li> 🧿 Focado em novas experiências.</li>
   </ul>
 </h2>
-<hr>
+
   <br>
 <div align="center" style="display: inline_block">
   <a href="https://github.com/lefernando">
