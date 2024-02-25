@@ -1,14 +1,12 @@
   <h1 align="center">Opa! Sou o Fernando Lemos <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></h1>
 
   <section>
-  <h2>
     <ul>
       <li> 🌱 Especialista em C# e .Net Core. Estudando <strong>React, Tailwind, Vite e Typescript</strong>;</li>
       <li> 🌱 Trabalho com: Java 8 e Spring Boot 2x </li>
       <li> ❤️‍🔥 Apaixonado por tecnologia;</li> 
       <li> 🧿 Focado em novas experiências.</li>
     </ul>
-  </h2>
   </section>
 
   <br>
