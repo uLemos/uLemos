@@ -1,6 +1,6 @@
 <h1 align="center">Opa! Sou o Fernando Lemos 👋</h1>
 
-
+<section>
 <h2>
   <ul>
     <li> 🌱 Especialista em C# e .Net Core. Estudando <strong>React, Tailwind, Vite e Typescript</strong>;</li>
@@ -9,6 +9,7 @@
     <li> 🧿 Focado em novas experiências.</li>
   </ul>
 </h2>
+</section>
 
   <br>
 <div align="center" style="display: inline_block">
