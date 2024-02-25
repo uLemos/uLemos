@@ -28,7 +28,7 @@
     <img align="center" alt="uLemos-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
     <img align="center" alt="uLemos-Spring" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
     <img align="center" alt="uLemos-TypeScript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-    <img align="center" alt="uLemos-React" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+    <img align="center" alt="uLemos-React" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   </div>
   
   <div align="center" style="display: inline_block"><br>
