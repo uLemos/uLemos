@@ -5,7 +5,6 @@
   <ul>
     <li> 🌱 Especialista em C# e .Net Core. Estudando <strong>React, Tailwind, Vite e Typescript</strong>;</li>
     <li> 🌱 Trabalho com: Java 8 e Spring Boot 2x </li>
-    <li> 😄 Pronouns: ele/dele;</li>
     <li> ❤️‍🔥 Apaixonado por tecnologia;</li> 
     <li> 🧿 Focado em novas experiências.</li>
   </ul>
