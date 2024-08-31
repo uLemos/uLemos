@@ -1,5 +1,6 @@
   <h1 align="center">Opa! Sou o Fernando Lemos <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></h1>
 
+  <span>Graduado em Análise e Desenvolvimento de Sistemas</span>
   <section>
     <ul>
       <li> 🌱 Especialista em C# e .Net Core. Estudando <strong>React, Tailwind, Vite e Typescript</strong>;</li>
