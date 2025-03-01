@@ -3,8 +3,7 @@
   <h3>Graduado em Análise e Desenvolvimento de Sistemas</h2>
   <section>
     <ul>
-      <li> 🌱 Especialista em C# e .Net Core. Estudando <strong>React, Tailwind, Vite e Typescript</strong>;</li>
-      <li> 🌱 Trabalho com: Java 8 e Spring Boot 2x </li>
+      <li> 🌱 Especialista em C# e .Net Core, Java, ReactJs e NextJs. Estudando <strong>Tailwind e Shadcn para Dashboards</strong>;</li>
       <li> ❤️‍🔥 Apaixonado por tecnologia;</li> 
       <li> 🧿 Focado em novas experiências.</li>
     </ul>
